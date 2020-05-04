@@ -19,7 +19,7 @@ public class Atomic1 {
         testAccumulate();
         testUpdate();
     }
-
+// test commit
     private static void testUpdate() {
         atomicInt.set(0);
 
